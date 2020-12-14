@@ -1,11 +1,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
-
-### <div align="center">I'm ts, a Data Engineer student at [HCMUTE](https://hcmute.edu.vn/)🚀</div>  
-  
-
+ ### <div align="center">I'm ts, a Data Engineer student at [HCMUTE](https://hcmute.edu.vn/)🚀</div>  
+ 
 - 🌱 I’m currently learningAI, Machine Learing and Deep Learning  
   
 
@@ -76,23 +73,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=tsdocode&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
