@@ -58,6 +58,10 @@
 <br/>  
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsdocode&hide=TeX&layout=compact)
+
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://www.facebook.com/tsisme" target="_blank">
@@ -72,7 +76,6 @@
 <br/>  
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsdocode&hide=TeX&layout=compact)
 
 <br/>  
 
