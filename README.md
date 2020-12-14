@@ -6,7 +6,7 @@
 ### <div align="center">I'm ts, a Data Engineer student at [HCMUTE](https://hcmute.edu.vn/)🚀</div>  
   
 
-- 🌱 I’m currently learningAI, Machine Learing and Deep Learning  
+- 🌱 I’m currently learning AI, Machine Learing and Deep Learning  
   
 
 - ⚡ Fun fact: I love watching Doraemon  o(=´∇｀=)o  
