@@ -6,7 +6,7 @@
 ### <div align="center">I'm ts, a Data Engineer student at [HCMUTE](https://hcmute.edu.vn/)🚀</div>  
   
 
-- 🌱 I’m currently learning AI, Machine Learing and Deep Learning  
+- 🌱 I’m currently learningAI, Machine Learing and Deep Learning  
   
 
 - ⚡ Fun fact: I love watching Doraemon  o(=´∇｀=)o  
@@ -72,22 +72,12 @@
 <br/>  
 
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=tsdocode&show_icons=true&count_private=true&hide_border=true" align="left" />  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsdocode&hide=TeX&layout=compact)
 
 <br/>  
 
 
 
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
+ 
 
 ----
