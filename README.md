@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 300px" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 150px" />
 </div>
 
  ### <div align="center">I'm ts, a Data Engineer student at [HCMUTE](https://hcmute.edu.vn/)🚀</div>  
