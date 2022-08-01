@@ -9,7 +9,7 @@ Hello there !
 
 💡 &nbsp; I'm a software developer and researcher on Center of Excellend team at [KMS Techology](https://kms-technology.com/), working on research and apply AI/ML Algorithm
 
-💻 &nbsp;I'm currently performing NLP research in the field of source code generation such as Text To SQL,...\
+💻 &nbsp;\
 🎓&nbsp;I will graduated form Ho Chi Minh University of Technology and Education (Data Engineer, Batch of 2023).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine Learning, NLP,...\
 ✍️ &nbsp;In my free time, I enjoy cooking\
