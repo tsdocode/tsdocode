@@ -1,18 +1,16 @@
 
 
 Hello there !
-![version :20.08.2021](https://img.shields.io/badge/version-21.01.2021-informational) &nbsp;
+![version :20.08.2021](https://img.shields.io/badge/version-21.01.2001-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=tsdocode&color=red)&nbsp;
 [![GitHub tsdocode](https://img.shields.io/github/followers/tsdocode?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a software developer and researcher on Center of Excellend team at [KMS Techology](https://kms-technology.com/), working on research and apply AI/ML Algorithm
-
-💻 &nbsp;\
+💡 &nbsp; I'm Lead AI Engineer of [KMS Healthcare Innovation Lab](https://kms-healthcare.com/), working on research and apply AI/ML Algorithm \
+💻 &nbsp; I'm currently interested on LLMs and MLOps stack. \
 🎓&nbsp;I will graduated form Ho Chi Minh University of Technology and Education (Data Engineer, Batch of 2023).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine Learning, NLP,...\
-✍️ &nbsp;In my free time, I enjoy cooking\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at tsdocode@gmail.com. I'll try to respond as soon as possible!\
 
