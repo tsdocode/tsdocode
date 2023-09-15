@@ -7,7 +7,7 @@ Hello there !
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm Lead AI Engineer of [KMS Healthcare Innovation Lab](https://kms-healthcare.com/), working on research and apply AI/ML Algorithm \
+💡 &nbsp; I'm AI Engineer of [KMS Healthcare Innovation Lab](https://kms-healthcare.com/), working on research and apply AI/ML Algorithm \
 💻 &nbsp; I'm currently interested on LLMs and MLOps stack. \
 🎓&nbsp;I will graduated form Ho Chi Minh University of Technology and Education (Data Engineer, Batch of 2023).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine Learning, NLP,...\
