@@ -8,8 +8,8 @@ Hello there !
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; Currently ML Enginer at [Trusting Social](https://trustingsocial.com/), formal Senior AI Engineer at [KMS Healthcare Innovation Lab](https://il.kms-healthcare.com/), working on research and apply AI/ML Algorithm \
-💻 &nbsp; I'm currently interested on LLMs and MLOps stack. \
-🎓&nbsp;I will graduated form Ho Chi Minh University of Technology and Education (Data Engineer, Batch of 2023).\
+💻 &nbsp; I'm currently interested on Voice AI, Inference Optimization and MLOps stack. \
+🎓 &nbsp;I will graduated form Ho Chi Minh University of Technology and Education (Data Engineer, Batch of 2023).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine Learning, NLP,...\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at tsdocode@gmail.com. I'll try to respond as soon as possible!\
