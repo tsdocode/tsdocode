@@ -22,6 +22,32 @@ Hello there !
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+
+### Opensource contributors
+
+#### On going:
+huggingface/nanoVLM
+- Perf: Adding torch.compile + static cache, ~3x speed up : https://github.com/huggingface/nanoVLM/pull/88
+
+#### Done:
+nari-labs/dia:
+- https://github.com/nari-labs/dia/pull/163
+- https://github.com/nari-labs/dia/pull/229
+
+
+huggingface/parler-tts:
+- https://github.com/huggingface/parler-tts/pull/87
+- https://github.com/huggingface/parler-tts/pull/59
+
+ivy-llc/ivy:
+- https://github.com/ivy-llc/ivy/pull/23016
+
+haotian-liu/LLaVA:
+https://github.com/haotian-liu/LLaVA/pull/834
+
+
+
 ### 📫 &nbsp; How to reach me:
 
 
